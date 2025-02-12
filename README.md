@@ -7,8 +7,10 @@
 ---
 
 ## 🚀 Technologies & Tools
-[!(https://skillicons.dev/icons?i= r,py,sklearn,tensorflow,pytorch,github)](https://skillicons.dev)
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=r,python,scikitlearn,tensorflow,pytorch,numpy,pandas,jupyter,github" />
+</p>
+
 
 ## 📊 GitHub Stats & Most Used Languages
 <p align="center">
