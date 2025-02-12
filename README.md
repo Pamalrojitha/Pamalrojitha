@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Pamal Nanayakkara!</h1>
 
-<!--
-**Pamalrojitha/Pamalrojitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Master of Data Science** | University of Adelaide  
+💡 **Passionate about Data Analytics, Data Visualisation, AI, Machine Learning, & Deep Learning**   
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/pamalnanayakkara/) 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies & Tools
+(https://skillicons.dev/icons?i= r,py,sklearn,tensorflow,pytorch,github)](https://skillicons.dev)
+---
+
+## 📊 GitHub Stats & Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pamalrojitha&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamalrojitha&layout=compact&theme=dark" />
+</p>
+
+---
