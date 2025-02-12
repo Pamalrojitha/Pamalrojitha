@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Pamal Nanayakkara!</h1>
 
 🎓 **Master of Data Science** | University of Adelaide  
-💡 **Passionate about Data Analytics, Data Visualisation, AI, Machine Learning, & Deep Learning**   
+💡 **Passionate about** Data Analytics, Data Visualisation, AI, Machine Learning, & Deep Learning**   
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/pamalnanayakkara/) 
 
 ---
