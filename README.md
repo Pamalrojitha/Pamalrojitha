@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Technologies & Tools
-(https://skillicons.dev/icons?i= r,py,sklearn,tensorflow,pytorch,github)](https://skillicons.dev)
+[!(https://skillicons.dev/icons?i= r,py,sklearn,tensorflow,pytorch,github)](https://skillicons.dev)
 ---
 
 ## 📊 GitHub Stats & Most Used Languages
