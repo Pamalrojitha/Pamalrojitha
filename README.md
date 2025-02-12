@@ -8,8 +8,13 @@
 
 ## 🚀 Technologies & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=r,python,scikitlearn,tensorflow,pytorch,numpy,pandas,jupyter,github" />
+  <img src="https://skillicons.dev/icons?i=r,python,scikitlearn,tensorflow,pytorch,github" />
+  <br>
+  <img src="https://img.shields.io/badge/Library-NumPy-blue?logo=numpy" />
+  <img src="https://img.shields.io/badge/Library-Pandas-purple?logo=pandas" />
+  <img src="https://img.shields.io/badge/Environment-Jupyter-orange?logo=jupyter" />
 </p>
+
 
 
 ## 📊 GitHub Stats & Most Used Languages
